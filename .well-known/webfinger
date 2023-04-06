@@ -1,0 +1,9 @@
+{
+  "subject": "acct:${email}",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://cognito-idp.eu-west-1.amazonaws.com/eu-west-1_HKfCfxcGm/.well-known/openid-configuration"
+    }
+  ]
+}
